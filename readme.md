@@ -30,3 +30,7 @@
 
 - git clone origin 克隆远程仓库
 
+- git checkout -b branch 创建branch分支并切换到该分支 -b 命令表示创建并切换分支
+
+- git branch 查看分支，显示分支名称前有一个*号的表示是当前的分支
+
