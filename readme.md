@@ -25,3 +25,8 @@
 - git branch -M main 创建 main 分支
 
 - git push -u origin main 将分支推送到远程仓
+
+- git remote -v 查询远程仓库信息
+
+- git clone origin 克隆远程仓库
+
